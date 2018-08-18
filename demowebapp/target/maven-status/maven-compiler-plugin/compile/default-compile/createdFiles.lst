@@ -1,1 +1,4 @@
-LoginServlet.class
+org\comit\demowebapp\login\LoginServlet.class
+org\comit\demowebapp\database\Database.class
+org\comit\demowebapp\login\LoginService.class
+org\comit\demowebapp\login\WelcomeServlet.class
